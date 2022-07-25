@@ -1,5 +1,4 @@
 # LIST SEMUA TUGAS ASD DOSEN
-tes:
 ## 1. [Searching](https://github.com/AgungStudent/ASD/searching)
 ## 2. [Sorting](https://github.com/AgungStudent/ASD/sorting)
 ## 3. [Linked-list](https://github.com/AgungStudent/ASD/linked-list)
